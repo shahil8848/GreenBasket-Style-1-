@@ -11,6 +11,7 @@ GreenBasket is a modern full-stack e-commerce web application focused on promoti
 This platform is developed using cutting-edge technologies such as **Next.js**, **Tailwind CSS**, **Clerk** for authentication, **MongoDB Atlas** for database management, **Cloudinary** for image handling, and **Inngest** for background event processing. The application is deployed on **Vercel**, ensuring fast, scalable performance.
 
 ---
+📸 **Check out the [`screenshot`] folder to view screenshots of the website.**
 
 ## ✨ Key Features
 
