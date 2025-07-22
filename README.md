@@ -1,7 +1,7 @@
 # 🌿 GreenBasket – Sustainable E-Commerce for a Greener Tomorrow
 
 🔗 **GitHub Repo:** https://github.com/shahil8848/GreenBasket-Style-1-  
-🌍 **Live Site:** https://greenbasket-98eb.vercel.app/
+🌍 **Live Site:** https://greenbasket37.vercel.app/
 👤 **LinkedIn:** https://www.linkedin.com/in/shahil-bhusal8848  
 
 ---
